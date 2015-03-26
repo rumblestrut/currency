@@ -7,7 +7,7 @@ sign: $
 subunits: 100
 title: 'U.S. dollar'
 usage:
-    - { ISO8601From: '1904-07-16', ISO8601To: '', ISO3166Code: AS }
+    - { ISO8601From: '1904-07-16', ISO8601To: '', ISO3166Code: US }
     - { ISO8601From: '1899-01-01', ISO8601To: '1959-01-01', ISO3166Code: CU }
     - { ISO8601From: '1905-06-21', ISO8601To: '1947-10-01', ISO3166Code: DO }
     - { ISO8601From: '2000-10-02', ISO8601To: '', ISO3166Code: EC }
